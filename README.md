@@ -19,11 +19,6 @@ My interests include backend development, software architecture, database manage
 
 ## Selected Projects
 
-### Tally
-A WhatsApp-based business management application designed to help bars track sales, manage customer tabs, and generate financial reports.
-
-**Technologies:** Python, Flask, PostgreSQL, Twilio
-
 ### [Mi Camino](https://github.com/Christi1280/TeamLinguist)
 An educational Spanish-language adventure game developed in collaboration with a multidisciplinary team. As lead programmer, I work on dialogue systems, game progression, objectives, and save systems.
 
